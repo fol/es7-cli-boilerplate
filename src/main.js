@@ -1,6 +1,6 @@
 class HelloWorld {
   printHello () {
-    console.log("hello world")
+    console.log('hello world')
   }
 }
 
